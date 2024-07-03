@@ -1,6 +1,3 @@
-
-Certainly! Here's a concise README.md template for a Travel Management System:
-
 Travel Management System
 A Java-based application for managing travel bookings, hotel reservations, and packages.
 
